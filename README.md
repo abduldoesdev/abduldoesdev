@@ -1,8 +1,8 @@
 <h2 align="center"> Welcome to my GitHub!<br/> </h2>
 <p align="center">
-  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=7-abdul&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=abduldoesdev&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p align="center">
-    <a href="https://github.com/7-Abdul/"><img src="https://img.shields.io/github/followers/7-abdul?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/abduldoesdev/"><img src="https://img.shields.io/github/followers/abduldoesdev?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://twitch.tv/superbotseries"><img src="https://img.shields.io/twitch/status/superbotseries?label=Status%20Twitch%20%3A"/></a>
   </p>
 </p>
