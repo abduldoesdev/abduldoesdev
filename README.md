@@ -8,7 +8,7 @@
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-👩‍💻 I'm working on <a href = "https://discord.com/oauth2/authorize?client_id=770406704642523161&permissions=8&scope=bot">Cuboid</a>!
+👩‍💻 I'm working on <a href = "https://cuboidbot.tk">Cuboid</a>!
 
 
 Languages I use: <br>
@@ -45,7 +45,7 @@ Tools & technologies I have worked with: <br>
 
 
 ### ☕ Get in touch
-- Discord: <a href="https://discord.com/users/715340764485517442m">Super Rocket#1978</a>
+- Discord: <a href="https://discord.com/users/715340764485517442m">AbdulTheDev#9311</a>
 
 #### Special Thanks
 - MysticSeagull (For the README Template)
