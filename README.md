@@ -4,11 +4,20 @@
   <p align="center">
     <a href="https://github.com/abduldoesdev/"><img src="https://img.shields.io/github/followers/abduldoesdev?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://twitch.tv/superbotseries"><img src="https://img.shields.io/twitch/status/superbotseries?label=Status%20Twitch%20%3A"/></a>
+    <a href[![Discord Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/231733082804322304?simple=true&logo=discord&logoColor=white&color=43B581)](https://discord.gg/tfQqub6) 
+[![Currently Doing](https://img.shields.io/badge/Currently%20Doing-Discord%20Boats-7289DA)](https://discord.boats) 
+[![Twitter](https://img.shields.io/badge/Twitter-@RoeeLupo-00acee)](https://twitter.com/RoeeLupo) 
+[![Email](https://img.shields.io/badge/Email%20Me-roee@discord.boats-FF6347)]() 
+
   </p>
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 👩‍💻 I'm working on <a href = "https://cuboidbot.tk">Cuboid</a>!
+
+Status: <br>
+[![Discord Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/231733082804322304?simple=true&logo=discord&logoColor=white&color=43B581)](https://discord.gg/tfQqub6) 
+[![Currently Doing](https://img.shields.io/badge/Currently%20Doing-Cuboid%20Bot-7289DA)](https://cuboidbot.tk/) 
 
 
 Languages I use: <br>
