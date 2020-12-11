@@ -15,9 +15,6 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 👩‍💻 I'm working on <a href = "https://cuboidbot.tk">Cuboid</a>!
 
-Status: <br>
-[![Discord Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/profiles/715340764485517442?simple=true&logo=discord&logoColor=white&color=43B581)](https://discord.gg/QCNkjnskk4) 
-[![Currently Doing](https://img.shields.io/badge/Currently%20Doing-Cuboid%20Bot-7289DA)](https://cuboidbot.tk/) 
 
 
 Languages I use: <br>
