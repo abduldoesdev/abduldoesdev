@@ -43,9 +43,9 @@ Tools & technologies I have worked with: <br>
 - Flask
 
 
-### 💡 Goals for 2020
+### 💡 Goals for 2021
 - Create more public projects
-- Explore lower level languages
+- Master The Languages I Code
 - Master Python
 - Get my bot to 100 servers/verified
 
