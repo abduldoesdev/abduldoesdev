@@ -8,7 +8,7 @@
 
 
 <h2>Projects</h2>
-<a href="//cuboidbot.tk" target="_BLANK">Cuboid</a> - The best discord bot you can have in your server. With features like giveaways, reaction roles, currency, moderation, etc. <a 
+<a href="//cuboidbot.tk" target="_BLANK">Cuboid</a> - The best discord bot you can have in your server. With features like giveaways, reaction roles, currency, moderation, etc. 
 
 <h2> ⚡ Technologies </h2>
 <p>
