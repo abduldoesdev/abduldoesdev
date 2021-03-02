@@ -1,9 +1,9 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there.</h1>
 <h3 align="center">
-  I'm Bolt, a teenage developer who mainly codes in python
+  I'm RED, a teenage developer who mainly codes in python
   <br><br><br>
 
- <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=The-Abdul-Dev&count_private=true&show_icons=true&include_all_commits=true" />
+ <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=The-RED-Dev&count_private=true&show_icons=true&include_all_commits=true" />
 </h3>
 
 
