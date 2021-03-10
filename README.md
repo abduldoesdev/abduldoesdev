@@ -3,7 +3,7 @@
   I'm RED, a teenage developer who mainly codes in python
   <br><br><br>
 
- <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=The-RED-Dev&count_private=true&show_icons=true&include_all_commits=true" />
+ <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=The-Cubical-Dev&count_private=true&show_icons=true&include_all_commits=true" />
 </h3>
 
 
